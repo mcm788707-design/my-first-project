@@ -1,0 +1,16 @@
+{
+  "name": "eagle-fms-redesign",
+  "version": "1.0.0",
+  "description": "A responsive multi-page static website concept for Eagle Global Facility Solutions, using Eagle's current website content and service categories, with an enterprise facilities-management layout inspired by the information architecture of EFS Facilities Services.",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "nodemailer": "^10.6.1"
+  }
+}
